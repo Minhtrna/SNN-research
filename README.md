@@ -5,7 +5,7 @@
 *   [📂 EfficientCNNs](./CNNs/Efficient)
 *   [📂 EfficientSNNs](./EfficientSNNs/) (đang cập nhật)
 *   [📂 SNNs](./SNNs/) 
-*   [📂 SURVEY](./SURVEY/) (2022)
+*   [📂 SURVEY](./SURVEY/) (Các bài đánh giá tổng hợp)
 *   [📂 Transformers base](./Transformers%20base/)
 
 ## Định hướng nghiên cứu
